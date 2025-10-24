@@ -30,7 +30,7 @@ os.environ['CUDA_VISIBLE_DEVICES']='1'
 
 dataset_dir = r"/home/yons/Syz_dirs/Datasets"  # train_dataset 文件夹路径
 
-# --------------- 自定义 22 类 ----------------
+# --------------- 自定义 20 类 ----------------
 CUSTOM_CLASSES =['000Rain','001Wind','002Thunder',
               '003Bird','004Frog','005Insect',
               '006Dog','007Honk','008Background',
