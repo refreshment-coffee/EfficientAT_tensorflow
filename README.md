@@ -1,2 +1,4 @@
 # EfficientAT_tensorflow
- Training with tensorflow preprocessing and pytorch models; In subsequent inference, tensorflow preprocessing +onnx inference
+ Refer to this github repository address: [WWW.XXXXXX.com](https://github.com/fschmid56/EfficientAT). The main code idea was applied to this specific project ----- audio classification.
+
+Training with tensorflow preprocessing and pytorch models; In subsequent inference, tensorflow preprocessing +onnx inference is used to achieve the goal of inference on the tensorflow architecture（without any pytorch code）.
